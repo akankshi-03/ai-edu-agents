@@ -3,7 +3,7 @@
 A two-agent AI pipeline that generates and reviews educational content for any grade and topic.
 
 ## 🔗 Live Demo
-[Click here to open the app]([https://ai-edu-agents-jvfbxpyzdbcueebvpd72ax.streamlit.app/])
+[Click here to open the app](https://[YOUR-APP-LINK.streamlit.app](https://ai-edu-agents-jvfbxpyzdbcueebvpd72ax.streamlit.app/))
 
 ## 🤖 Agent Pipeline
 User Input (Grade + Topic)
